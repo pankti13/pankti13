@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
  🔭I am a 2nd year B.Tech student at IIIT Allahabad.
  
- in.me/pankti13)](https://holopin.io/@pankti13)
+ [![@pankti13's Holopin board](https://holopin.io/api/user/board?user=pankti13)](https://holopin.io/@pankti13)
