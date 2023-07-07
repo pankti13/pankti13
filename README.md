@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
- 🔭I am a 2nd year B.Tech student at IIIT Allahabad.
+ 🔭I am a 3rd year B.Tech student at IIIT Allahabad and my specialization is Information Technology.
  
  [![@pankti13's Holopin board](https://holopin.io/api/user/board?user=pankti13)](https://holopin.io/@pankti13)
